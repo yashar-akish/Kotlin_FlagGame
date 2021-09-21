@@ -8,6 +8,7 @@
         android:id="@+id/titleBar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:fontFamily="cursive"
         android:gravity="center"
         android:text="Flags Game"
         android:textSize="24sp"

@@ -5,6 +5,7 @@ import android.app.ActionBar.DISPLAY_SHOW_CUSTOM
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
+import kotlin.random.Random as Random
 
 class QuizQuestionsActivity : AppCompatActivity() {
     @SuppressLint("WrongConstant")
